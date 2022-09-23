@@ -22,6 +22,8 @@ So basically this Temperature App has a range of Temperature between -5°C to 50
 
 The Project Taught me more on Hooks, Component and useState().
 
+### `Challenges`
+I had issues while styling the css the most prefered way, which i am definitely gonna improve-on on my subsquent projects
 
 ### `Resources`
 
