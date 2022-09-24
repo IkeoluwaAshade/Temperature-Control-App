@@ -1,6 +1,6 @@
 # Temperature Control App
 
-## [Live Site](https://realtime-chat-application.netlify.com)
+## [Live Site](https://eloquent-kulfi-d20a89.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
